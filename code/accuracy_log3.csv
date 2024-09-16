@@ -192,21 +192,6 @@ Epoch,Accuracy,Validation Accuracy, Loss, Validation Loss
 29,0.9125000238418579,0.9387351870536804,0.1599152684211731,0.15925434231758118
 30,0.9624999761581421,0.9367588758468628,0.1420183926820755,0.16166354715824127
 
-Model: DenseNet201
-Image shape: (224, 224, 3)
-Batch size: 16
-Dataset: /app/data/Datasets/plastic_and_other
-Number of classes: 2
-
-Epoch,Accuracy,Validation Accuracy, Loss, Validation Loss
-
-Model: DenseNet201
-Image shape: (224, 224, 3)
-Batch size: 16
-Dataset: /app/data/Datasets/plastic_and_other
-Number of classes: 2
-
-Epoch,Accuracy,Validation Accuracy, Loss, Validation Loss
 
 Model: DenseNet201
 Image shape: (224, 224, 3)
