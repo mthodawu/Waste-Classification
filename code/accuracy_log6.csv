@@ -573,3 +573,11 @@ Epoch,Accuracy,Validation Accuracy, Loss, Validation Loss
 29,0.875,0.8379446864128113,0.3966676592826843,0.6343620419502258
 30,0.862500011920929,0.8379446864128113,0.402977854013443,0.6310976147651672
 Testing Accuracy:  0.8379
+
+Model: MobileNetV3Small
+Image shape: (224, 224, 3)
+Batch size: 16
+Dataset: /app/data/Datasets/metal_and_other
+Number of classes: 2
+
+Epoch,Accuracy,Validation Accuracy, Loss, Validation Loss

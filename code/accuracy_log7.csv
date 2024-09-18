@@ -1,0 +1,16 @@
+
+Model: MobileNetV3Small
+Image shape: (224, 224, 3)
+Batch size: 16
+Dataset: /app/data/Datasets/augmented_plastic_and_other
+Number of classes: 2
+
+Epoch,Accuracy,Validation Accuracy, Loss, Validation Loss
+
+Model: densenet201
+Image shape: (224, 224, 3)
+Batch size: 16
+Dataset: /app/data/Datasets/augmented_plastic_and_other
+Number of classes: 2
+
+Epoch,Accuracy,Validation Accuracy, Loss, Validation Loss
