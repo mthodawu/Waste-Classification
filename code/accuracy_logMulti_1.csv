@@ -1,0 +1,40 @@
+
+Model: densenet201
+Image shape: (224, 224, 3)
+Batch size: 16
+Dataset: /app/data/Datasets/Trashnet-resized
+Number of classes: 2
+
+Epoch,Accuracy,Validation Accuracy, Loss, Validation Loss
+
+Model: densenet201
+Image shape: (224, 224, 3)
+Batch size: 16
+Dataset: /app/data/Datasets/Trashnet-resized
+Number of classes: 2
+
+Epoch,Accuracy,Validation Accuracy, Loss, Validation Loss
+
+Model: densenet201
+Image shape: (224, 224, 3)
+Batch size: 8
+Dataset: /app/data/Datasets/Trashnet-resized
+Number of classes: 2
+
+Epoch,Accuracy,Validation Accuracy, Loss, Validation Loss
+
+Model: densenet201
+Image shape: (160, 160, 3)
+Batch size: 2
+Dataset: /app/data/Datasets/Trashnet-resized
+Number of classes: 6
+
+Epoch,Accuracy,Validation Accuracy, Loss, Validation Loss
+
+Model: MobileNetV3Small
+Image shape: (160, 160, 3)
+Batch size: 2
+Dataset: /app/data/Datasets/Trashnet-resized
+Number of classes: 6
+
+Epoch,Accuracy,Validation Accuracy, Loss, Validation Loss
