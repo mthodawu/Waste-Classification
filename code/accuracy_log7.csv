@@ -429,3 +429,11 @@ Epoch,Accuracy,Validation Accuracy, Loss, Validation Loss
 29,0.9047619104385376,0.908823549747467,0.2958596646785736,0.25973495841026306
 30,0.8636363744735718,0.8921568393707275,0.3174189329147339,0.2834957242012024
 Testing Accuracy:  0.9127
+
+Model: densenet201
+Image shape: (224, 224, 3)
+Batch size: 16
+Dataset: /app/data/Datasets/metal_and_other
+Number of classes: 2
+
+Epoch,Accuracy,Validation Accuracy, Loss, Validation Loss
