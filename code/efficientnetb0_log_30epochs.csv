@@ -1,0 +1,124 @@
+
+Model: efficientnetb0
+Image shape: (224, 224, 3)
+Batch size: 16
+Dataset: /app/data/Datasets/augmented_metal_and_other
+Number of classes: 2
+
+
+Model: efficientnetb0
+Image shape: (224, 224, 3)
+Batch size: 16
+Dataset: /app/data/Datasets/augmented_metal_and_other
+Number of classes: 2
+
+
+Model: efficientnetb0
+Image shape: (224, 224, 3)
+Batch size: 16
+Dataset: /app/data/Datasets/augmented_metal_and_other
+Number of classes: 2
+
+
+Model: efficientnetb0
+Image shape: (224, 224, 3)
+Batch size: 16
+Dataset: /app/data/Datasets/augmented_metal_and_other
+Number of classes: 2
+
+Testing Accuracy: 0.4629
+Precision: 0.2143
+Recall: 0.4629
+F1 Score: 0.2929
+mAP: 0.4783
+
+Model: efficientnetb0
+Image shape: (224, 224, 3)
+Batch size: 16
+Dataset: /app/data/Datasets/augmented_glass_and_other
+Number of classes: 2
+
+Testing Accuracy: 0.5972
+Precision: 0.3567
+Recall: 0.5972
+F1 Score: 0.4466
+mAP: 0.3972
+
+Model: efficientnetb0
+Image shape: (224, 224, 3)
+Batch size: 16
+Dataset: /app/data/Datasets/augmented_cardboard_and_other
+Number of classes: 2
+
+Testing Accuracy: 0.5325
+Precision: 0.2835
+Recall: 0.5325
+F1 Score: 0.3700
+mAP: 0.4701
+
+Model: efficientnetb0
+Image shape: (224, 224, 3)
+Batch size: 16
+Dataset: /app/data/Datasets/augmented_paper_and_other
+Number of classes: 2
+
+
+Model: efficientnetb0
+Image shape: (224, 224, 3)
+Batch size: 16
+Dataset: /app/data/Datasets/augmented_metal_and_other
+Number of classes: 2
+
+Testing Accuracy: 0.5371
+Precision: 0.2885
+Recall: 0.5371
+F1 Score: 0.3754
+mAP: 0.4820
+
+Model: efficientnetb0
+Image shape: (224, 224, 3)
+Batch size: 16
+Dataset: /app/data/Datasets/augmented_glass_and_other
+Number of classes: 2
+
+Testing Accuracy: 0.5972
+Precision: 0.3567
+Recall: 0.5972
+F1 Score: 0.4466
+mAP: 0.4306
+
+Model: efficientnetb0
+Image shape: (224, 224, 3)
+Batch size: 16
+Dataset: /app/data/Datasets/augmented_cardboard_and_other
+Number of classes: 2
+
+Testing Accuracy: 0.5325
+Precision: 0.2835
+Recall: 0.5325
+F1 Score: 0.3700
+mAP: 0.4538
+
+Model: efficientnetb0
+Image shape: (224, 224, 3)
+Batch size: 16
+Dataset: /app/data/Datasets/augmented_paper_and_other
+Number of classes: 2
+
+Testing Accuracy: 0.2490
+Precision: 0.0620
+Recall: 0.2490
+F1 Score: 0.0993
+mAP: 0.7561
+
+Model: efficientnetb0
+Image shape: (224, 224, 3)
+Batch size: 16
+Dataset: /app/data/Datasets/augmented_plastic_and_other
+Number of classes: 2
+
+Testing Accuracy: 0.4140
+Precision: 0.1714
+Recall: 0.4140
+F1 Score: 0.2424
+mAP: 0.5953

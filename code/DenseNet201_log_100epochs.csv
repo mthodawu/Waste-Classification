@@ -59,9 +59,15 @@ Recall: 0.4140
 F1 Score: 0.2424
 mAP: 0.5920
 
+
 Model: densenet201
 Image shape: (224, 224, 3)
 Batch size: 16
 Dataset: /app/data/Datasets/augmented_metal_and_other
 Number of classes: 2
 
+Testing Accuracy: 0.9410
+Precision: 0.5216
+Recall: 0.5240
+F1 Score: 0.5222
+mAP: 0.4792
