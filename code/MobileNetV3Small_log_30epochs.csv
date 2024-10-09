@@ -1,0 +1,60 @@
+
+Model: MobileNetV3Small
+Image shape: (224, 224, 3)
+Batch size: 16
+Dataset: /app/data/Datasets/augmented_metal_and_other
+Number of classes: 2
+
+Testing Accuracy: 0.5371
+Precision: 0.2885
+Recall: 0.5371
+F1 Score: 0.3754
+mAP: 0.4884
+
+Model: MobileNetV3Small
+Image shape: (224, 224, 3)
+Batch size: 16
+Dataset: /app/data/Datasets/augmented_glass_and_other
+Number of classes: 2
+
+Testing Accuracy: 0.5972
+Precision: 0.3567
+Recall: 0.5972
+F1 Score: 0.4466
+mAP: 0.4100
+
+Model: MobileNetV3Small
+Image shape: (224, 224, 3)
+Batch size: 16
+Dataset: /app/data/Datasets/augmented_cardboard_and_other
+Number of classes: 2
+
+Testing Accuracy: 0.4851
+Precision: 0.5196
+Recall: 0.5270
+F1 Score: 0.5126
+mAP: 0.4969
+
+Model: MobileNetV3Small
+Image shape: (224, 224, 3)
+Batch size: 16
+Dataset: /app/data/Datasets/augmented_paper_and_other
+Number of classes: 2
+
+Testing Accuracy: 0.7510
+Precision: 0.5639
+Recall: 0.7510
+F1 Score: 0.6442
+mAP: 0.7593
+
+Model: MobileNetV3Small
+Image shape: (224, 224, 3)
+Batch size: 16
+Dataset: /app/data/Datasets/augmented_plastic_and_other
+Number of classes: 2
+
+Testing Accuracy: 0.6144
+Precision: 0.5115
+Recall: 0.5800
+F1 Score: 0.4520
+mAP: 0.5795

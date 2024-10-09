@@ -1,0 +1,55 @@
+
+Model: densenet169
+Image shape: (224, 224, 3)
+Batch size: 16
+Dataset: /app/data/Datasets/augmented_metal_and_other
+Number of classes: 2
+
+Testing Accuracy: 0.9138
+Precision: 0.5132
+Recall: 0.5164
+F1 Score: 0.5138
+mAP: 0.4753
+
+Model: densenet169
+Image shape: (224, 224, 3)
+Batch size: 16
+Dataset: /app/data/Datasets/augmented_glass_and_other
+Number of classes: 2
+
+Testing Accuracy: 0.9028
+Precision: 0.5400
+Recall: 0.5476
+F1 Score: 0.5429
+mAP: 0.4182
+
+Model: densenet169
+Image shape: (224, 224, 3)
+Batch size: 16
+Dataset: /app/data/Datasets/augmented_cardboard_and_other
+Number of classes: 2
+
+Testing Accuracy: 0.9626
+Precision: 0.5051
+Recall: 0.5050
+F1 Score: 0.5050
+mAP: 0.4493
+
+Model: densenet169
+Image shape: (224, 224, 3)
+Batch size: 16
+Dataset: /app/data/Datasets/augmented_paper_and_other
+Number of classes: 2
+
+Testing Accuracy: 0.9408
+Precision: 0.6392
+Recall: 0.6448
+F1 Score: 0.6419
+mAP: 0.7578
+
+Model: densenet169
+Image shape: (224, 224, 3)
+Batch size: 16
+Dataset: /app/data/Datasets/augmented_plastic_and_other
+Number of classes: 2
+
