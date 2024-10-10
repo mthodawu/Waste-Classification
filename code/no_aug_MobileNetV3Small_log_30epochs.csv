@@ -1,0 +1,12 @@
+
+Model: MobileNetV3Small
+Image shape: (160, 160, 3)
+Batch size: 2
+Dataset: /app/data/Datasets/Trashnet-resized
+Number of classes: 6
+
+Testing Accuracy: 0.2343
+Precision: 0.0549
+Recall: 0.2343
+F1 Score: 0.0889
+mAP: 0.1978
