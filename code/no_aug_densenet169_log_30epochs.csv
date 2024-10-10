@@ -1,0 +1,7 @@
+
+Model: densenet169
+Image shape: (224, 224, 3)
+Batch size: 16
+Dataset: /app/data/Datasets/metal_and_other
+Number of classes: 2
+
