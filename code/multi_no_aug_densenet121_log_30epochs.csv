@@ -1,0 +1,31 @@
+
+Model: densenet121
+Image shape: (160, 160, 3)
+Batch size: 16
+Dataset: /app/data/Datasets/Trashnet-resized
+Number of classes: 6
+
+
+Model: densenet121
+Image shape: (160, 160, 3)
+Batch size: 4
+Dataset: /app/data/Datasets/Trashnet-resized
+Number of classes: 6
+
+Testing Accuracy: 0.3445
+Precision: 0.1927
+Recall: 0.1988
+F1 Score: 0.1840
+mAP: 0.1912
+
+Model: densenet121
+Image shape: (160, 160, 3)
+Batch size: 1
+Dataset: /app/data/Datasets/Trashnet-resized
+Number of classes: 6
+
+Testing Accuracy: 0.6791
+Precision: 0.2098
+Recall: 0.2264
+F1 Score: 0.2158
+mAP: 0.2014

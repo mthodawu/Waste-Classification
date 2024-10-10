@@ -1,0 +1,49 @@
+
+Model: densenet169
+Image shape: (160, 160, 3)
+Batch size: 4
+Dataset: /app/data/Datasets/Trashnet-resized
+Number of classes: 6
+
+
+Model: densenet169
+Image shape: (160, 160, 3)
+Batch size: 4
+Dataset: /app/data/Datasets/Trashnet-resized
+Number of classes: 6
+
+
+Model: densenet169
+Image shape: (160, 160, 3)
+Batch size: 2
+Dataset: /app/data/Datasets/Trashnet-resized
+Number of classes: 6
+
+
+Model: densenet169
+Image shape: (160, 160, 3)
+Batch size: 1
+Dataset: /app/data/Datasets/Trashnet-resized
+Number of classes: 6
+
+
+Model: densenet169
+Image shape: (160, 160, 3)
+Batch size: 1
+Dataset: /app/data/Datasets/Trashnet-resized
+Number of classes: 6
+
+
+Model: densenet169
+Image shape: (160, 160, 3)
+Batch size: 1
+Dataset: /app/data/Datasets/Trashnet-resized
+Number of classes: 6
+
+
+Model: densenet169
+Image shape: (160, 160, 3)
+Batch size: 1
+Dataset: /app/data/Datasets/Trashnet-resized
+Number of classes: 6
+

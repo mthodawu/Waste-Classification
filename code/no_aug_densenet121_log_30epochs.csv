@@ -58,3 +58,34 @@ Precision: 0.7007
 Recall: 0.6482
 F1 Score: 0.6707
 mAP: 0.1928
+
+Model: densenet121
+Image shape: (160, 160, 3)
+Batch size: 1
+Dataset: /app/data/Datasets/Trashnet-resized
+Number of classes: 6
+
+Testing Accuracy: 0.5807
+Precision: 0.1992
+Recall: 0.1969
+F1 Score: 0.1944
+mAP: 0.2100
+
+Model: densenet121
+Image shape: (160, 160, 3)
+Batch size: 1
+Dataset: /app/data/Datasets/Trashnet-resized
+Number of classes: 6
+
+Testing Accuracy: 0.5079
+Precision: 0.1464
+Recall: 0.1752
+F1 Score: 0.1459
+mAP: 0.1879
+
+Model: densenet121
+Image shape: (160, 160, 3)
+Batch size: 1
+Dataset: /app/data/Datasets/Trashnet-resized
+Number of classes: 6
+

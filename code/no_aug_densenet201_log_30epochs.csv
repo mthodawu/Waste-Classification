@@ -1,0 +1,14 @@
+
+Model: densenet201
+Image shape: (160, 160, 3)
+Batch size: 2
+Dataset: /app/data/Datasets/Trashnet-resized
+Number of classes: 6
+
+
+Model: densenet201
+Image shape: (160, 160, 3)
+Batch size: 2
+Dataset: /app/data/Datasets/Trashnet-resized
+Number of classes: 6
+
